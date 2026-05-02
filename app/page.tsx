@@ -39,7 +39,7 @@ const wisataPackages = [
     duration: '7 Hari 6 Malam',
     minPerson: 'Min. 2 Orang',
     price: 'Rp 8.200.000',
-    image: '/phuket.jfif',
+    image: '/phuket.jpg',
   },
 ];
 
@@ -91,7 +91,7 @@ const contactInfo = [
 const heroImages = [
   { src: '/bangkok.jpg', label: 'Bangkok' },
   { src: '/chiang-mai.avif', label: 'Chiang Mai' },
-  { src: '/phuket.jfif', label: 'Phuket & Krabi' },
+  { src: '/phuket.jpg', label: 'Phuket & Krabi' },
 ];
 
 // ─── SECTION HEADER ──────────────────────────────────────────────────────────
